@@ -1,8 +1,9 @@
-rslate
-==========
+#	rslate
 
 A modified [vim](http://www.vim.org) color theme `slate` for use with [Jakson Aquino's vim-r-plugin](http://www.vim.org/scripts/script.php?script_id=2628).
 
-Screenshot:
+## Screenshots
 
-![Screenshot](/images/rslate.png "rslate screenshot")
+In 256 color terminal:
+
+![Screenshot](/images/rslate_term.png "rslate term screenshot")
